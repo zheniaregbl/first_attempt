@@ -9,4 +9,5 @@ def show_date_today():
     return datetime.datetime.today()
 
 
-print(show_date_today())
+def plus(a, b):
+    return a + b
